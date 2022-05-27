@@ -34,10 +34,10 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         auth = Firebase.auth
+        //test1에 commit11
 
 
 
-        googleLogin()
 
 
     }
